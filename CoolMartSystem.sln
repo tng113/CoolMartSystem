@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoolMart.API", "CoolMart.API\CoolMart.API.csproj", "{69F2EC2B-6541-4E04-BA1E-30CBC2176AFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoolMart.WinForms", "CoolMart.WinForms\CoolMart.WinForms.csproj", "{0D959216-85D4-4224-953B-688DEE7287F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69F2EC2B-6541-4E04-BA1E-30CBC2176AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F2EC2B-6541-4E04-BA1E-30CBC2176AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F2EC2B-6541-4E04-BA1E-30CBC2176AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F2EC2B-6541-4E04-BA1E-30CBC2176AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D959216-85D4-4224-953B-688DEE7287F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D959216-85D4-4224-953B-688DEE7287F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D959216-85D4-4224-953B-688DEE7287F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D959216-85D4-4224-953B-688DEE7287F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

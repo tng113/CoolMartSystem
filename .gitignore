@@ -1,0 +1,39 @@
+# ===== Build output (thư mục rác sinh ra khi build) =====
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# ===== Visual Studio =====
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.slnLaunch.user
+launchSettings.json.bak
+
+# ===== NuGet / Node =====
+packages/
+*.nupkg
+node_modules/
+
+# ===== Log, test, tạm =====
+*.log
+TestResults/
+[Tt]est[Rr]esult*/
+*.tmp
+*.cache
+
+# ===== File nén / sao lưu =====
+*.rar
+*.zip
+*.7z
+*.bak
+
+# ===== File hệ điều hành =====
+Thumbs.db
+.DS_Store
